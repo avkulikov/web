@@ -9,16 +9,16 @@
   },
   "dependencies": {
     "@nestjs/common": "6.3.1",
-    "@nestjs/core": "6.3.1",
+    "@nestjs/core": "9.0.5",
     "@nestjs/typeorm": "6.1.2",
     "@nestjs/platform-express": "6.3.1",
     "@nestjs/graphql": "6.2.4",
-    "apollo-server-express": "2.6.3",
+    "apollo-server-express": "3.13.0",
     "graphql": "14.3.1",
     "graphql-tools": "4.0.4",
     "graphql-iso-date": "3.6.1",
     "reflect-metadata": "0.1.13",
-    "typeorm": "0.2.18",
+    "typeorm": "0.3.0",
     "pg": "7.11.0"
   },
   "devDependencies": {
